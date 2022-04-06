@@ -3,7 +3,7 @@ services: app-service\web, app-service
 platforms: php
 author: cephalin
 ---
-
+# Hello World
 # PHP sample for Azure App Service - CodeIgniter
 
 This is a PHP web app built with [CodeIgniter](http://www.codeigniter.com/) that you can deploy 
